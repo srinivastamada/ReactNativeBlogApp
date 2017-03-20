@@ -2,10 +2,15 @@ import React, {Component} from 'react';
 import AppBodyData from './appBodyData';
 import {Content} from 'native-base';
 export default class AppBody extends Component {
-
+    constructor() {
+        super()
+        this.state = {
+            data: []
+        }
+    }
     getData() {
         fetch('https://facebook.github.io/react-native/movies.json').then((response) => response.json()).then((responseJson) => {
-            alert(responseJson.movies);
+           
             this.setState({data: responseJson.movies});
 
         }).catch((error) => {
@@ -13,8 +18,8 @@ export default class AppBody extends Component {
         });
     }
 
-
     componentDidMount() {
+        this.setState({data: []});
         this.getData();
 
     }
@@ -22,8 +27,7 @@ export default class AppBody extends Component {
     render() {
 
         return (
-            <Content>
-            </Content>
+            <Content><AppBodyData data={this.state.data}/></Content>
         );
     }
 }
