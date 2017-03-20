@@ -10,16 +10,16 @@ export default class AppFooter extends Component {
       <Footer>
         <FooterTab>
           <Button active>
-            <Icon name="paper"/>
+            <Icon name="egg"/>
             <Text>Feed</Text>
           </Button>
           <Button>
              <Icon active name="navigate"/>
-            <Text>Navigate</Text>
+            <Text>News</Text>
           </Button>
           <Button>
             <Icon name="person"/>
-            <Text>Contact</Text>
+            <Text>About</Text>
           </Button>
         </FooterTab>
       </Footer>
