@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Image, AlertIOS} from 'react-native';
+import {Image, WebView} from 'react-native';
 import {
     Content,
     Card,
@@ -13,6 +13,9 @@ import {
     View
 } from 'native-base';
 import FitImage from 'react-native-fit-image';
+import TimeAgo from 'react-native-timeago';
+import HTMLView from 'react-native-htmlview';
+
 export default class AppBodyData extends Component {
 
     constructor(props) {
@@ -24,20 +27,34 @@ export default class AppBodyData extends Component {
 
     render() {
 
-        let updatesEach = this
+        let getContentSnippet = function (str) {
+            return str
+                .split(/\s+/)
+                .slice(0, 50)
+                .join(" ") + "...";
+        };
+
+        let getImage = function (content) {
+            var myRegexp = new RegExp(/<img.*?src="(.*?)"/);
+            var match = myRegexp.exec(content);
+            if (match) 
+                return match[1];
+            }
+        
+        let articles = this
             .props
             .data
-            .map(function (update, index) {
+            .map(function (articleData, index) {
 
                 return (
 
-                    <Card >
+                    <Card key={articleData.published.$t}>
                         <CardItem>
                             <Left>
                                 <Thumbnail source={require('../img/SrinivasTamada.png')}/>
                                 <Body>
                                     <Text>
-                                        {update.title}</Text>
+                                        {articleData.title.$t}</Text>
                                     <Text note>Srinivas Tamada</Text>
                                 </Body>
                             </Left>
@@ -50,13 +67,13 @@ export default class AppBodyData extends Component {
                             }}>
                                 <FitImage
                                     source={{
-                                    uri: 'https://s3.amazonaws.com/9lessonspics/nodeapi/nodebanner.png'
+                                    uri: getImage(articleData.content.$t)
                                 }}/>
                             </View>
                         </CardItem>
                         <CardItem content>
-                            <Text>Wait a minute. Wait a minute, Doc. Uhhh... Are you telling me that you
-                                built a time machine... out of a DeLorean?! Whoa. This is heavy.</Text>
+
+                            <HTMLView value={getContentSnippet(articleData.content.$t)} />
                         </CardItem>
                         <CardItem
                             style={{
@@ -70,14 +87,15 @@ export default class AppBodyData extends Component {
                                 <Icon active name="chatbubbles"/>
                                 <Text>4 Comments</Text>
                             </Button>
-                            <Text>11h ago</Text>
+                            <Text><TimeAgo time={articleData.published.$t}/>
+                            </Text>
                         </CardItem>
                     </Card>
                 )
             });
 
         return (
-            <Content>{updatesEach}</Content>
+            <Content>{articles}</Content>
         );
     }
 }
