@@ -10,8 +10,8 @@ export default class AppBody extends Component {
     }
     getData() {
         fetch('https://facebook.github.io/react-native/movies.json').then((response) => response.json()).then((responseJson) => {
-           
-            this.setState({data: responseJson.movies});
+
+            this.setState({data: responseJson.movies });
 
         }).catch((error) => {
             console.error(error);
@@ -27,7 +27,7 @@ export default class AppBody extends Component {
     render() {
 
         return (
-            <Content><AppBodyData data={this.state.data}/></Content>
+            <AppBodyData data={this.state.data}/>
         );
     }
 }
