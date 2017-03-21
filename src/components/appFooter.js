@@ -11,15 +11,15 @@ export default class AppFooter extends Component {
       <Footer >
         <FooterTab>
           <Button active>
-            <Icon name="egg"/>
+            <Icon name="ios-egg"/>
             <Text>Feed</Text>
           </Button>
           <Button>
-             <Icon active name="navigate"/>
+             <Icon active name="paper"/>
             <Text>News</Text>
           </Button>
           <Button>
-            <Icon name="person"/>
+            <Icon name="contact"/>
             <Text>About</Text>
           </Button>
         </FooterTab>

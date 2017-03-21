@@ -112,7 +112,7 @@ export default {
 
 
       // Color
-  brandPrimary: (platform === 'ios') ? '#cc0000' : '#cc0000',
+  brandPrimary: (platform === 'ios') ? '#0c97d2' : '#0c97d2',
   brandInfo: '#62B1F6',
   brandSuccess: '#5cb85c',
   brandDanger: '#d9534f',
@@ -137,16 +137,16 @@ export default {
 
     // Footer
   footerHeight: 55,
-  footerDefaultBg: (platform === 'ios') ? '#cc0000' : '#cc0000',
+  footerDefaultBg: (platform === 'ios') ? '#162336' : '#162336',
 
 
     // FooterTab
-  tabBarTextColor: (platform === 'ios') ? '#6b6b6b' : '#b3c7f9',
+  tabBarTextColor: (platform === 'ios') ? '#fff' : '#b3c7f9',
   tabBarTextSize: (platform === 'ios') ? 14 : 11,
-  activeTab: (platform === 'ios') ? '#007aff' : '#fff',
+  activeTab: (platform === 'ios') ? '#fff' : '#fff',
   sTabBarActiveTextColor: '#007aff',
-  tabBarActiveTextColor: (platform === 'ios') ? '#007aff' : '#fff',
-  tabActiveBgColor: (platform === 'ios') ? '#cde1f9' : '#3F51B5',
+  tabBarActiveTextColor: (platform === 'ios') ? '#0c97d2' : '#0c97d2',
+  tabActiveBgColor: (platform === 'ios') ? '#0e1a2b' : '#0e1a2b',
 
     // Tab
   tabDefaultBg: (platform === 'ios') ? '#F8F8F8' : '#3F51B5',

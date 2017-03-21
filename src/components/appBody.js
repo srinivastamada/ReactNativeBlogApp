@@ -13,7 +13,7 @@ export default class AppBody extends Component {
         }
     }
     getData() {
-        fetch('https://www.thewallscript.com/blogfeed/blog.json', {
+        fetch('https://www.thewallscript.com/blogfeed/javascript/30', {
                 method: 'GET'}).then((response) => response.json()).then((responseJson) => {
 
                 this.setState({

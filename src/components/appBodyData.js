@@ -15,32 +15,10 @@ import {
 import FitImage from 'react-native-fit-image';
 import TimeAgo from 'react-native-timeago';
 import HTMLView from 'react-native-htmlview';
-
+import {ContentSnippet, GetImage} from '../helpers/helpers';
 export default class AppBodyData extends Component {
 
-    constructor(props) {
-        super(props)
-        this.state = {
-            name: "Srinivas Tamada"
-        };
-    }
-
     render() {
-
-        let getContentSnippet = function (str) {
-            return str
-                .split(/\s+/)
-                .slice(0, 50)
-                .join(" ") + "...";
-        };
-
-        let getImage = function (content) {
-            var myRegexp = new RegExp(/<img.*?src="(.*?)"/);
-            var match = myRegexp.exec(content);
-            if (match) 
-                return match[1];
-            }
-        
         let articles = this
             .props
             .data
@@ -67,28 +45,30 @@ export default class AppBodyData extends Component {
                             }}>
                                 <FitImage
                                     source={{
-                                    uri: getImage(articleData.content.$t)
+                                    uri: GetImage(articleData.content.$t)
                                 }}/>
                             </View>
                         </CardItem>
                         <CardItem content>
 
-                            <HTMLView value={getContentSnippet(articleData.content.$t)} />
+                            <HTMLView value={ContentSnippet(articleData.content.$t)}/>
                         </CardItem>
+
                         <CardItem
                             style={{
                             justifyContent: 'space-around'
                         }}>
                             <Button transparent>
-                                <Icon active name="thumbs-up"/>
-                                <Text>12 Likes</Text>
+                                <Icon active name="time"/>
+                                <Text><TimeAgo time={articleData.published.$t}/></Text>
                             </Button>
+
                             <Button transparent>
                                 <Icon active name="chatbubbles"/>
-                                <Text>4 Comments</Text>
+                                <Text>{articleData.thr$total.$t}
+                                    Comments</Text>
                             </Button>
-                            <Text><TimeAgo time={articleData.published.$t}/>
-                            </Text>
+
                         </CardItem>
                     </Card>
                 )

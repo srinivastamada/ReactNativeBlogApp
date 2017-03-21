@@ -1,0 +1,1967 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+        "xmlns$georss": "http://www.georss.org/georss",
+        "xmlns$gd": "http://schemas.google.com/g/2005",
+        "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+        "id": {
+            "$t": "tag:blogger.com,1999:blog-992226187759619576"
+        },
+        "updated": {
+            "$t": "2017-03-20T16:26:14.805-04:00"
+        },
+        "category": [
+            {
+                "term": "jQuery"
+            },
+            {
+                "term": "javascript"
+            },
+            {
+                "term": "php"
+            },
+            {
+                "term": "WebDesign"
+            },
+            {
+                "term": "Web Development"
+            },
+            {
+                "term": "Ajax"
+            },
+            {
+                "term": "Tutorials"
+            },
+            {
+                "term": "Facebook"
+            },
+            {
+                "term": "CSS"
+            },
+            {
+                "term": "Form"
+            },
+            {
+                "term": "google"
+            },
+            {
+                "term": "Database"
+            },
+            {
+                "term": "HTML"
+            },
+            {
+                "term": "Mysql"
+            },
+            {
+                "term": "Technology"
+            },
+            {
+                "term": "sponsor"
+            },
+            {
+                "term": "HTML5"
+            },
+            {
+                "term": "Websites"
+            },
+            {
+                "term": "API"
+            },
+            {
+                "term": "Application"
+            },
+            {
+                "term": "Mobile"
+            },
+            {
+                "term": "Twitter API"
+            },
+            {
+                "term": "CSS3"
+            },
+            {
+                "term": "Java"
+            },
+            {
+                "term": "plug-in"
+            },
+            {
+                "term": "JSON"
+            },
+            {
+                "term": "OAuth"
+            },
+            {
+                "term": "Design"
+            },
+            {
+                "term": "Web"
+            },
+            {
+                "term": "9lessons"
+            },
+            {
+                "term": "Login"
+            },
+            {
+                "term": "Twitter"
+            },
+            {
+                "term": "htaccess"
+            },
+            {
+                "term": "Hacking"
+            },
+            {
+                "term": "Upload"
+            },
+            {
+                "term": "Image"
+            },
+            {
+                "term": "Iphone"
+            },
+            {
+                "term": "List"
+            },
+            {
+                "term": "SQL"
+            },
+            {
+                "term": "blogger"
+            },
+            {
+                "term": "Email"
+            },
+            {
+                "term": "Resources"
+            },
+            {
+                "term": "Social"
+            },
+            {
+                "term": "amazon"
+            },
+            {
+                "term": "angularjs"
+            },
+            {
+                "term": "Free"
+            },
+            {
+                "term": "News"
+            },
+            {
+                "term": "RESTful"
+            },
+            {
+                "term": "SMTP"
+            },
+            {
+                "term": "Validation"
+            },
+            {
+                "term": "Wall"
+            },
+            {
+                "term": "domain"
+            },
+            {
+                "term": "Advertising"
+            },
+            {
+                "term": "C prorgramming"
+            },
+            {
+                "term": "Drag"
+            },
+            {
+                "term": "EC2"
+            },
+            {
+                "term": "Framework"
+            },
+            {
+                "term": "Hosting"
+            },
+            {
+                "term": "J2EE"
+            },
+            {
+                "term": "Jsp"
+            },
+            {
+                "term": "Popular"
+            },
+            {
+                "term": "Regular Expression"
+            },
+            {
+                "term": "SEO"
+            },
+            {
+                "term": "Search"
+            },
+            {
+                "term": "android"
+            },
+            {
+                "term": "blog"
+            },
+            {
+                "term": "https"
+            },
+            {
+                "term": "ssl"
+            },
+            {
+                "term": "template"
+            },
+            {
+                "term": "Chrome"
+            },
+            {
+                "term": "Connection"
+            },
+            {
+                "term": "Function"
+            },
+            {
+                "term": "Labs"
+            },
+            {
+                "term": "Like"
+            },
+            {
+                "term": "Logos"
+            },
+            {
+                "term": "Mail"
+            },
+            {
+                "term": "Pagination"
+            },
+            {
+                "term": "Payment"
+            },
+            {
+                "term": "Paypal"
+            },
+            {
+                "term": "Photos"
+            },
+            {
+                "term": "Photoshop"
+            },
+            {
+                "term": "Plugin"
+            },
+            {
+                "term": "Projects"
+            },
+            {
+                "term": "Reports"
+            },
+            {
+                "term": "Scripts"
+            },
+            {
+                "term": "Table"
+            },
+            {
+                "term": "Wallpaper"
+            },
+            {
+                "term": "XML"
+            },
+            {
+                "term": "Youtube"
+            },
+            {
+                "term": "analytics"
+            },
+            {
+                "term": "apache"
+            },
+            {
+                "term": "audio"
+            },
+            {
+                "term": "jQueryBasics"
+            },
+            {
+                "term": "modernizr"
+            },
+            {
+                "term": "nodejs"
+            },
+            {
+                "term": "reactjs"
+            },
+            {
+                "term": "Adobe"
+            },
+            {
+                "term": "Banner"
+            },
+            {
+                "term": "Bootstrap"
+            },
+            {
+                "term": "Browser"
+            },
+            {
+                "term": "Clone"
+            },
+            {
+                "term": "Cloud"
+            },
+            {
+                "term": "Digital Marketing"
+            },
+            {
+                "term": "Drawings"
+            },
+            {
+                "term": "Edit"
+            },
+            {
+                "term": "Fanpage"
+            },
+            {
+                "term": "Game"
+            },
+            {
+                "term": "Graphics"
+            },
+            {
+                "term": "Marketing"
+            },
+            {
+                "term": "Memcached"
+            },
+            {
+                "term": "Microsoft"
+            },
+            {
+                "term": "MooTools"
+            },
+            {
+                "term": "Notification"
+            },
+            {
+                "term": "Object-oriented"
+            },
+            {
+                "term": "Programming"
+            },
+            {
+                "term": "RSS"
+            },
+            {
+                "term": "Redis"
+            },
+            {
+                "term": "Resonsive"
+            },
+            {
+                "term": "Rewriting"
+            },
+            {
+                "term": "S3"
+            },
+            {
+                "term": "SDK"
+            },
+            {
+                "term": "Social Network Script"
+            },
+            {
+                "term": "Social Network Software"
+            },
+            {
+                "term": "Testing"
+            },
+            {
+                "term": "Traffic"
+            },
+            {
+                "term": "Video"
+            },
+            {
+                "term": "Web Hosting"
+            },
+            {
+                "term": "Website"
+            },
+            {
+                "term": "Windows"
+            },
+            {
+                "term": "Yahoo"
+            },
+            {
+                "term": "base64"
+            },
+            {
+                "term": "cordova"
+            },
+            {
+                "term": "effects"
+            },
+            {
+                "term": "flash"
+            },
+            {
+                "term": "github"
+            },
+            {
+                "term": "google plus"
+            },
+            {
+                "term": "ios"
+            },
+            {
+                "term": "oembed"
+            },
+            {
+                "term": "player"
+            },
+            {
+                "term": "ubuntu"
+            },
+            {
+                "term": "wallscript"
+            },
+            {
+                "term": "xampp"
+            },
+            {
+                "term": "404"
+            },
+            {
+                "term": "AWS"
+            },
+            {
+                "term": "Air"
+            },
+            {
+                "term": "Animated"
+            },
+            {
+                "term": "Apps"
+            },
+            {
+                "term": "Architecuture"
+            },
+            {
+                "term": "Authentication"
+            },
+            {
+                "term": "Awesome Developer"
+            },
+            {
+                "term": "Backbone"
+            },
+            {
+                "term": "Bing"
+            },
+            {
+                "term": "Blackberry"
+            },
+            {
+                "term": "BrainTree"
+            },
+            {
+                "term": "Bug Tracking"
+            },
+            {
+                "term": "Button"
+            },
+            {
+                "term": "Buttons"
+            },
+            {
+                "term": "Captcha"
+            },
+            {
+                "term": "Compute"
+            },
+            {
+                "term": "Concepts"
+            },
+            {
+                "term": "Conversation"
+            },
+            {
+                "term": "Covers"
+            },
+            {
+                "term": "Cropping"
+            },
+            {
+                "term": "Curl"
+            },
+            {
+                "term": "DOM"
+            },
+            {
+                "term": "Delete"
+            },
+            {
+                "term": "Drop"
+            },
+            {
+                "term": "Encoding"
+            },
+            {
+                "term": "Error Free Application"
+            },
+            {
+                "term": "Event"
+            },
+            {
+                "term": "Extension"
+            },
+            {
+                "term": "Extention"
+            },
+            {
+                "term": "FBML"
+            },
+            {
+                "term": "Flex"
+            },
+            {
+                "term": "Foreign"
+            },
+            {
+                "term": "GIF"
+            },
+            {
+                "term": "Geo"
+            },
+            {
+                "term": "Gmail"
+            },
+            {
+                "term": "Groups"
+            },
+            {
+                "term": "Hashing"
+            },
+            {
+                "term": "Ideas"
+            },
+            {
+                "term": "Input"
+            },
+            {
+                "term": "Insights"
+            },
+            {
+                "term": "Inspiration"
+            },
+            {
+                "term": "Language"
+            },
+            {
+                "term": "Message"
+            },
+            {
+                "term": "Meta"
+            },
+            {
+                "term": "MongoDB"
+            },
+            {
+                "term": "Multiple"
+            },
+            {
+                "term": "Nikon"
+            },
+            {
+                "term": "OOP"
+            },
+            {
+                "term": "Outlook"
+            },
+            {
+                "term": "PDO"
+            },
+            {
+                "term": "PageSpeed"
+            },
+            {
+                "term": "Painting"
+            },
+            {
+                "term": "Product"
+            },
+            {
+                "term": "Rails"
+            },
+            {
+                "term": "Realistic"
+            },
+            {
+                "term": "Regular_Expressions"
+            },
+            {
+                "term": "Remarketing"
+            },
+            {
+                "term": "Router"
+            },
+            {
+                "term": "Ruby"
+            },
+            {
+                "term": "Score"
+            },
+            {
+                "term": "Scrolling"
+            },
+            {
+                "term": "Shedular"
+            },
+            {
+                "term": "Smartphone"
+            },
+            {
+                "term": "Smarty"
+            },
+            {
+                "term": "Spread Sheet"
+            },
+            {
+                "term": "Status"
+            },
+            {
+                "term": "TED"
+            },
+            {
+                "term": "Two Factor"
+            },
+            {
+                "term": "URL"
+            },
+            {
+                "term": "Update"
+            },
+            {
+                "term": "Videos"
+            },
+            {
+                "term": "Virtual"
+            },
+            {
+                "term": "Web Services"
+            },
+            {
+                "term": "Web Tool"
+            },
+            {
+                "term": "ZOHO"
+            },
+            {
+                "term": "ads"
+            },
+            {
+                "term": "animations"
+            },
+            {
+                "term": "backup"
+            },
+            {
+                "term": "broadcasting"
+            },
+            {
+                "term": "cache"
+            },
+            {
+                "term": "charts"
+            },
+            {
+                "term": "chat"
+            },
+            {
+                "term": "chatting"
+            },
+            {
+                "term": "checkbox"
+            },
+            {
+                "term": "comodo"
+            },
+            {
+                "term": "content"
+            },
+            {
+                "term": "desktop"
+            },
+            {
+                "term": "eclipse"
+            },
+            {
+                "term": "editor"
+            },
+            {
+                "term": "emotions"
+            },
+            {
+                "term": "es6"
+            },
+            {
+                "term": "expanding"
+            },
+            {
+                "term": "file"
+            },
+            {
+                "term": "firebase"
+            },
+            {
+                "term": "heroku"
+            },
+            {
+                "term": "icons"
+            },
+            {
+                "term": "images"
+            },
+            {
+                "term": "instagram"
+            },
+            {
+                "term": "installation"
+            },
+            {
+                "term": "ionic"
+            },
+            {
+                "term": "linkedin"
+            },
+            {
+                "term": "mac"
+            },
+            {
+                "term": "maps"
+            },
+            {
+                "term": "mob"
+            },
+            {
+                "term": "native"
+            },
+            {
+                "term": "node"
+            },
+            {
+                "term": "offline"
+            },
+            {
+                "term": "openid"
+            },
+            {
+                "term": "openssl"
+            },
+            {
+                "term": "parallax"
+            },
+            {
+                "term": "pdf"
+            },
+            {
+                "term": "php. Form"
+            },
+            {
+                "term": "print"
+            },
+            {
+                "term": "profile"
+            },
+            {
+                "term": "reaction"
+            },
+            {
+                "term": "realtime"
+            },
+            {
+                "term": "recaptcha"
+            },
+            {
+                "term": "redirection"
+            },
+            {
+                "term": "responsive"
+            },
+            {
+                "term": "rething"
+            },
+            {
+                "term": "server"
+            },
+            {
+                "term": "shake"
+            },
+            {
+                "term": "slim"
+            },
+            {
+                "term": "software"
+            },
+            {
+                "term": "sound"
+            },
+            {
+                "term": "storage"
+            },
+            {
+                "term": "t-shirt"
+            },
+            {
+                "term": "timeago"
+            },
+            {
+                "term": "timeline"
+            },
+            {
+                "term": "tips"
+            },
+            {
+                "term": "typescript"
+            },
+            {
+                "term": "unix"
+            },
+            {
+                "term": "webcam"
+            },
+            {
+                "term": "webpack"
+            },
+            {
+                "term": "websense"
+            },
+            {
+                "term": "wordpress"
+            },
+            {
+                "term": "zip"
+            }
+        ],
+        "title": {
+            "type": "text",
+            "$t": "9lessons Programming Blog"
+        },
+        "subtitle": {
+            "type": "html",
+            "$t": "9lessons is a popular tech blog maintained by Srinivas Tamada from India. Topics focus on Programming, tutorials, jQuery, Ajax, PHP, Java, JSP, Mysql, Database, Resources and inspiration. One blog for simple programming 9 lessons."
+        },
+        "link": [
+            {
+                "rel": "http://schemas.google.com/g/2005#feed",
+                "type": "application/atom+xml",
+                "href": "http:\/\/www.9lessons.info\/feeds\/posts\/default"
+            },
+            {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/-\/javascript?alt=json\u0026max-results=10"
+            },
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "http:\/\/www.9lessons.info\/search\/label\/javascript"
+            },
+            {
+                "rel": "hub",
+                "href": "http://pubsubhubbub.appspot.com/"
+            },
+            {
+                "rel": "next",
+                "type": "application/atom+xml",
+                "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/-\/javascript\/-\/javascript?alt=json\u0026start-index=11\u0026max-results=10"
+            }
+        ],
+        "author": [
+            {
+                "name": {
+                    "$t": "Srinivas Tamada"
+                },
+                "uri": {
+                    "$t": "https:\/\/plus.google.com\/104100007347037324968"
+                },
+                "email": {
+                    "$t": "noreply@blogger.com"
+                },
+                "gd$image": {
+                    "rel": "http://schemas.google.com/g/2005#thumbnail",
+                    "width": "32",
+                    "height": "32",
+                    "src": "\/\/lh4.googleusercontent.com\/-aKTHp74010k\/AAAAAAAAAAI\/AAAAAAAANpc\/M9QWGzJehJk\/s512-c\/photo.jpg"
+                }
+            }
+        ],
+        "generator": {
+            "version": "7.00",
+            "uri": "http://www.blogger.com",
+            "$t": "Blogger"
+        },
+        "openSearch$totalResults": {
+            "$t": "122"
+        },
+        "openSearch$startIndex": {
+            "$t": "1"
+        },
+        "openSearch$itemsPerPage": {
+            "$t": "10"
+        },
+        "entry": [
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-992226187759619576.post-500720741796149409"
+                },
+                "published": {
+                    "$t": "2017-02-28T20:14:00.001-05:00"
+                },
+                "updated": {
+                    "$t": "2017-02-28T20:14:03.568-05:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "angularjs"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Facebook"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "github"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "google"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "javascript"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Social"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Twitter"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Angular Firebase Facebook, Google, Github and Twitter Login - Part 2"
+                },
+                "content": {
+                    "type": "html",
+                    "$t": "\u003Cdiv class=\"bigInt\" itemprop=\"description\"\u003EThis article is the continuation of previous post \u003Ca href=\"http:\/\/www.9lessons.info\/2017\/02\/create-angular2-firebase-social-autentication.html\"\u003ECreate an Angular 2 CLI App with Firebase Social Authentication\u003C\/a\u003E. This post further explains the authentication feature for your Angular CLI application using Firebase. AngularFire is the library used for this. In addition to this, we require some Angular providers called sign-in providers to use Firebase Authentication feature. This article explains Facebook, Google and Twitter authentication to log in with our users. Follow the demo and article to install and setup AngularFire library and build your angular web application with an easy and perfect login authentication. Also, the article explains how to redirect to home page from other pages and vice-versa. \u003C\/div\u003E\u003Cbr\u003E\u003Cdiv class=\"cen\"\u003E\u003Cimg alt=\"Create RESTful API NodeJS Mysql\" class=\"sri650\" itemprop=\"image\" src=\"https:\/\/s3.amazonaws.com\/9lessonspics\/angularfirebase\/angularfirebase2.png\"\u003E\u003C\/div\u003E\u003Cbr\u003E\u003Ca href=\"http:\/\/www.9lessons.info\/2017\/02\/angular-firebase-facebook-google-github.html#more\"\u003ERead more »\u003C\/a\u003E"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.9lessons.info\/feeds\/500720741796149409\/comments\/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2017\/02\/angular-firebase-facebook-google-github.html#comment-form",
+                        "title": "1 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/500720741796149409"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/500720741796149409"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2017\/02\/angular-firebase-facebook-google-github.html",
+                        "title": "Angular Firebase Facebook, Google, Github and Twitter Login - Part 2"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Srinivas Tamada"
+                        },
+                        "uri": {
+                            "$t": "https:\/\/plus.google.com\/104100007347037324968"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "32",
+                            "height": "32",
+                            "src": "\/\/lh4.googleusercontent.com\/-aKTHp74010k\/AAAAAAAAAAI\/AAAAAAAANpc\/M9QWGzJehJk\/s512-c\/photo.jpg"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "http:\/\/lh6.ggpht.com\/_N9kpbq3FL74\/Sd31o5XF8hI\/AAAAAAAABg0\/104nWJR7wro\/s72-c\/live.png",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-992226187759619576.post-985734037216157026"
+                },
+                "published": {
+                    "$t": "2017-02-27T15:59:00.003-05:00"
+                },
+                "updated": {
+                    "$t": "2017-02-28T20:14:58.771-05:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "angularjs"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "firebase"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "google"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "javascript"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "node"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Create an Angular 2 CLI App with Firebase Social Authentication Facebook, Google, Github and Twitter"
+                },
+                "content": {
+                    "type": "html",
+                    "$t": "\u003Cdiv class=\"bigInt\" itemprop=\"description\"\u003EThere is a lot of fun in building an AngularJS application and after you finish the application, for others to see your application you will need to deploy the project on some web server such as NodeJS, Amazon AWS, Heroku,etc,. But, this requires a long procedure for the deployment and sometimes it can even be expensive. Google provides free Firebase for deploying \u003Ca href=\"http:\/\/www.9lessons.info\/search\/label\/angularjs\" target=\"blank\"\u003EAngularJS projects\u003C\/a\u003E. Firebase Hosting provides fast and secure static hosting for your web app. This Hosting also provides social login authentication and gives your project a subdomain for deploying. for Facebook, Google and Twitter.\u003C\/div\u003E\u003Cbr\u003E\u003Cdiv class=\"cen\"\u003E\u003Cimg alt=\"Create RESTful API NodeJS Mysql\" class=\"sri650\" itemprop=\"image\" src=\"https:\/\/s3.amazonaws.com\/9lessonspics\/angularfirebase\/angularfirebase.png\"\u003E\u003C\/div\u003E\u003Cbr\u003E\u003Ca href=\"http:\/\/www.9lessons.info\/2017\/02\/create-angular2-firebase-social-autentication.html#more\"\u003ERead more »\u003C\/a\u003E"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.9lessons.info\/feeds\/985734037216157026\/comments\/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2017\/02\/create-angular2-firebase-social-autentication.html#comment-form",
+                        "title": "6 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/985734037216157026"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/985734037216157026"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2017\/02\/create-angular2-firebase-social-autentication.html",
+                        "title": "Create an Angular 2 CLI App with Firebase Social Authentication Facebook, Google, Github and Twitter"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Srinivas Tamada"
+                        },
+                        "uri": {
+                            "$t": "https:\/\/plus.google.com\/104100007347037324968"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "32",
+                            "height": "32",
+                            "src": "\/\/lh4.googleusercontent.com\/-aKTHp74010k\/AAAAAAAAAAI\/AAAAAAAANpc\/M9QWGzJehJk\/s512-c\/photo.jpg"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "http:\/\/lh6.ggpht.com\/_N9kpbq3FL74\/Sd31o5XF8hI\/AAAAAAAABg0\/104nWJR7wro\/s72-c\/live.png",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "6"
+                }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-992226187759619576.post-6161721850935058717"
+                },
+                "published": {
+                    "$t": "2016-10-03T10:50:00.000-04:00"
+                },
+                "updated": {
+                    "$t": "2016-10-04T10:52:41.788-04:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "es6"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "heroku"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "javascript"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "nodejs"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "reactjs"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "webpack"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Youtube"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "React Webpack Heroku Youtube Instant Search Working with APIs Tutorial"
+                },
+                "content": {
+                    "type": "html",
+                    "$t": "\u003Cdiv class=\"bigInt\" itemprop=\"description\"\u003EI already have discussed about \u003Ca href=\"http:\/\/www.9lessons.info\/2016\/08\/social-network-system-with-react-js.html\" target=\"_blank\"\u003EReact JS\u003C\/a\u003E in my previous posts. Today, lets see advanced way of using React JS, webpack and ES6 with Node.js to build and run your application. Let’s see what webpack and ES6 does. ES6 (ECMAScript6) is the latest version of javascript that has number of new features to write your javascript code easily. Webpack is mainly designed for larger applications to build the application. The main idea behind webpack\/ES6 is code splitting. It allows you to write Javascript as a modularized code, so that you can re-use and share the code to maintain your project over-time. \u003C\/div\u003E\u003Cbr\u003E\u003Cdiv class=\"cen\"\u003E\u003Cimg alt=\"React Webpack Heroku Youtube Instant Search Tutorial\" class=\"sri650\" itemprop=\"image\" src=\"https:\/\/s3.amazonaws.com\/9lessonspics\/reactWebpack\/react-webpack-heroku.png\"\u003E\u003C\/div\u003E\u003Cbr\u003E\u003Ca href=\"http:\/\/www.9lessons.info\/2016\/10\/react-webpack-heroku-youtube-instant.html#more\"\u003ERead more »\u003C\/a\u003E"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.9lessons.info\/feeds\/6161721850935058717\/comments\/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/10\/react-webpack-heroku-youtube-instant.html#comment-form",
+                        "title": "8 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/6161721850935058717"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/6161721850935058717"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/10\/react-webpack-heroku-youtube-instant.html",
+                        "title": "React Webpack Heroku Youtube Instant Search Working with APIs Tutorial"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Srinivas Tamada"
+                        },
+                        "uri": {
+                            "$t": "https:\/\/plus.google.com\/104100007347037324968"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "32",
+                            "height": "32",
+                            "src": "\/\/lh4.googleusercontent.com\/-aKTHp74010k\/AAAAAAAAAAI\/AAAAAAAANpc\/M9QWGzJehJk\/s512-c\/photo.jpg"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "http:\/\/lh3.ggpht.com\/_N9kpbq3FL74\/Sd31pMC1aHI\/AAAAAAAABg8\/UAWFBvpGO6Y\/s72-c\/down.png",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "8"
+                }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-992226187759619576.post-4725513056800002364"
+                },
+                "published": {
+                    "$t": "2016-08-17T00:22:00.001-04:00"
+                },
+                "updated": {
+                    "$t": "2016-08-30T22:25:00.670-04:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "CSS3"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "HTML5"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "javascript"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "jQuery"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "reactjs"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Web Development"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Wall Comment System with React JS Part Two"
+                },
+                "content": {
+                    "type": "html",
+                    "$t": "\u003Cdiv dir=\"ltr\" style=\"text-align: left;\" trbidi=\"on\"\u003E\u003Cdiv class=\"bigInt\" itemprop=\"description\"\u003EThis post is continuation of \u003Ca href=\"http:\/\/www.9lessons.info\/2016\/08\/social-network-system-with-react-js.html\"\u003EReact JS\u003C\/a\u003E previous post. React JS is lighter and faster. It needs less coding and as mentioned in the earlier post, React suites best for one page application, front-end and single page websites. The article explains how to post a comment, delete a comment and also toggle(hide\/show) a comment using React JS. React JS and \u003Ca href=\"http:\/\/www.9lessons.info\/2013\/08\/angularjs-tutorial-restful.html\"\u003EAngular JS\u003C\/a\u003E are two prominent frameworks in JavaScript now-a-days. As its a new series in my blog, I would appreciate for any doubts or your feedback in the comments so that I could explain it to you in a better way. \u003Cbr\u003E\u003Cbr\u003E\u003Cdiv class=\"cen\"\u003E\u003Cimg alt=\"Social Network System with React JS\" class=\"sri650\" itemprop=\"image\" src=\"https:\/\/s3.amazonaws.com\/9lessonspics\/reactJs.png\"\u003E\u003C\/div\u003E\u003Cbr\u003E\u003C\/div\u003E\u003C\/div\u003E\u003Ca href=\"http:\/\/www.9lessons.info\/2016\/08\/wall-comment-system-with-react-js-part.html#more\"\u003ERead more »\u003C\/a\u003E"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.9lessons.info\/feeds\/4725513056800002364\/comments\/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/08\/wall-comment-system-with-react-js-part.html#comment-form",
+                        "title": "13 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/4725513056800002364"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/4725513056800002364"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/08\/wall-comment-system-with-react-js-part.html",
+                        "title": "Wall Comment System with React JS Part Two"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Srinivas Tamada"
+                        },
+                        "uri": {
+                            "$t": "https:\/\/plus.google.com\/104100007347037324968"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "32",
+                            "height": "32",
+                            "src": "\/\/lh4.googleusercontent.com\/-aKTHp74010k\/AAAAAAAAAAI\/AAAAAAAANpc\/M9QWGzJehJk\/s512-c\/photo.jpg"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "http:\/\/lh3.ggpht.com\/_N9kpbq3FL74\/Sd31pMC1aHI\/AAAAAAAABg8\/UAWFBvpGO6Y\/s72-c\/down.png",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "13"
+                }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-992226187759619576.post-2920498624177176741"
+                },
+                "published": {
+                    "$t": "2016-08-14T23:46:00.001-04:00"
+                },
+                "updated": {
+                    "$t": "2016-08-30T22:31:04.730-04:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "DOM"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Facebook"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "javascript"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "php"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "reactjs"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Virtual"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Web Development"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Social Network System with React JS Part One"
+                },
+                "content": {
+                    "type": "html",
+                    "$t": "\u003Cdiv dir=\"ltr\" style=\"text-align: left;\" trbidi=\"on\"\u003E\u003Cdiv class=\"bigInt\" itemprop=\"description\"\u003EHow to solve infinity loading either in your desktop or mobile? By now, everyone is familiar with \u003Ca href=\"http:\/\/www.9lessons.info\/search\/label\/jQuery\"\u003EJQuery\u003C\/a\u003E, but we all know is JQuery cannot handle such large amount of data to load. \u003Ca href=\"http:\/\/www.9lessons.info\/2016\/08\/wall-comment-system-with-react-js-part.html\"\u003EReact JS\u003C\/a\u003E is the best solution for this problem. JQuery and other libraries interacts directly with DOM to load any data; but React JS is specifically designed in such a way that it has a mid interactive layer called Virtual DOM which in turn interacts with DOM(as shown in the diagram below). This Virtual DOM helps in data loading very faster. \u003C\/div\u003E\u003Cbr\u003E\u003Cdiv class=\"cen\"\u003E\u003Cimg alt=\"Social Network System with React JS\" class=\"sri650\" itemprop=\"image\" src=\"https:\/\/s3.amazonaws.com\/9lessonspics\/reactDOM.png\"\u003E\u003C\/div\u003E\u003Cbr\u003E\u003C\/div\u003E\u003Ca href=\"http:\/\/www.9lessons.info\/2016\/08\/social-network-system-with-react-js.html#more\"\u003ERead more »\u003C\/a\u003E"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.9lessons.info\/feeds\/2920498624177176741\/comments\/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/08\/social-network-system-with-react-js.html#comment-form",
+                        "title": "12 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/2920498624177176741"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/2920498624177176741"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/08\/social-network-system-with-react-js.html",
+                        "title": "Social Network System with React JS Part One"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Srinivas Tamada"
+                        },
+                        "uri": {
+                            "$t": "https:\/\/plus.google.com\/104100007347037324968"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "32",
+                            "height": "32",
+                            "src": "\/\/lh4.googleusercontent.com\/-aKTHp74010k\/AAAAAAAAAAI\/AAAAAAAANpc\/M9QWGzJehJk\/s512-c\/photo.jpg"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "http:\/\/lh3.ggpht.com\/_N9kpbq3FL74\/Sd31pMC1aHI\/AAAAAAAABg8\/UAWFBvpGO6Y\/s72-c\/down.png",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "12"
+                }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-992226187759619576.post-6016537808127516229"
+                },
+                "published": {
+                    "$t": "2016-07-31T22:22:00.000-04:00"
+                },
+                "updated": {
+                    "$t": "2016-08-04T16:02:58.118-04:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "angularjs"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "google"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "javascript"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "JSON"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "wallscript"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Angular JS Facebook Wall System with Multiple Bindings Tutorial"
+                },
+                "content": {
+                    "type": "html",
+                    "$t": "\u003Cdiv class=\"bigInt\" itemprop=\"description\"\u003EToday, I am here to introduce a new Advanced Javascript series in 9Lessons.info. Basically, I love wall system because we can cover multiple operations or features in a single web page. 9Lessons.info is most popular for its articles designed on wall system. This article is based on this wall system concept using Angular js 1.4. Future posts will be on the same concept where I will be introducing ReactJS and AngularJS 2 to 9Lessons.info. Below is the demo and hope you all enjoy this new series\u003C\/div\u003E\u003Cbr\u003E\u003Cdiv class=\"cen\"\u003E\u003Cimg alt=\"Ad Blocker Detector for Blogger with JavaScript\" class=\"sri650\" itemprop=\"image\" src=\"https:\/\/lh3.googleusercontent.com\/-FOHcP5hGsvM\/V55aZXDs6DI\/AAAAAAAAOJY\/WL118JV1oQ8buq9dMyXY8Yn8K8cnrKErwCCo\/s650\/angular.png\"\u003E\u003C\/div\u003E\u003Cbr\u003E\u003Ca href=\"http:\/\/www.9lessons.info\/2016\/07\/angular-js-wall-system-multiple-operations.html#more\"\u003ERead more »\u003C\/a\u003E"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.9lessons.info\/feeds\/6016537808127516229\/comments\/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/07\/angular-js-wall-system-multiple-operations.html#comment-form",
+                        "title": "13 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/6016537808127516229"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/6016537808127516229"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/07\/angular-js-wall-system-multiple-operations.html",
+                        "title": "Angular JS Facebook Wall System with Multiple Bindings Tutorial"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Srinivas Tamada"
+                        },
+                        "uri": {
+                            "$t": "https:\/\/plus.google.com\/104100007347037324968"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "32",
+                            "height": "32",
+                            "src": "\/\/lh4.googleusercontent.com\/-aKTHp74010k\/AAAAAAAAAAI\/AAAAAAAANpc\/M9QWGzJehJk\/s512-c\/photo.jpg"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https:\/\/lh3.googleusercontent.com\/-FOHcP5hGsvM\/V55aZXDs6DI\/AAAAAAAAOJY\/WL118JV1oQ8buq9dMyXY8Yn8K8cnrKErwCCo\/s72-c\/angular.png",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "13"
+                }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-992226187759619576.post-4732512281548205625"
+                },
+                "published": {
+                    "$t": "2016-07-20T16:05:00.002-04:00"
+                },
+                "updated": {
+                    "$t": "2016-09-09T13:40:36.284-04:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "blogger"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "CSS"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "google"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "HTML"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "javascript"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Web Development"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Ad Blocker Detector for Google Adsense with JavaScript"
+                },
+                "content": {
+                    "type": "html",
+                    "$t": "\u003Cdiv class=\"bigInt\" itemprop=\"description\"\u003EAdvertisements are very important for any post published in internet. This is what decides the person’s revenue. But, recently adblocker system is killing revenue of the publisher because of which it also effects the creativity of that person. Today, I am providing a simple new solution for those depressed and effected persons of adblocking system. Here is a simple javascript to be included along with your website code to either hide the content of your website or show a pop-up or alert message to remove the viewers adblock plugin. Any blogger or any website management can use this code to improve your revenue of your website. This code is mainly designed for Google Adsense.\u003C\/div\u003E\u003Cbr\u003E\u003Cdiv class=\"cen\"\u003E\u003Cimg alt=\"Ad Blocker Detector for Blogger with JavaScript\" class=\"sri650\" itemprop=\"image\" src=\"https:\/\/lh3.googleusercontent.com\/-t35E9f5J7xs\/V46lrvwiiyI\/AAAAAAAAOFg\/JwTYwFwGqCsCu6QzP4UDCRDzG6OvXwyUQCCo\/s650\/blocker.png\"\u003E\u003C\/div\u003E\u003Cbr\u003E\u003Ca href=\"http:\/\/www.9lessons.info\/2016\/07\/ad-blocker-detector-for-adsense-with.html#more\"\u003ERead more »\u003C\/a\u003E"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.9lessons.info\/feeds\/4732512281548205625\/comments\/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/07\/ad-blocker-detector-for-adsense-with.html#comment-form",
+                        "title": "9 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/4732512281548205625"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/4732512281548205625"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/07\/ad-blocker-detector-for-adsense-with.html",
+                        "title": "Ad Blocker Detector for Google Adsense with JavaScript"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Srinivas Tamada"
+                        },
+                        "uri": {
+                            "$t": "https:\/\/plus.google.com\/104100007347037324968"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "32",
+                            "height": "32",
+                            "src": "\/\/lh4.googleusercontent.com\/-aKTHp74010k\/AAAAAAAAAAI\/AAAAAAAANpc\/M9QWGzJehJk\/s512-c\/photo.jpg"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https:\/\/lh3.googleusercontent.com\/-t35E9f5J7xs\/V46lrvwiiyI\/AAAAAAAAOFg\/JwTYwFwGqCsCu6QzP4UDCRDzG6OvXwyUQCCo\/s72-c\/blocker.png",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "9"
+                }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-992226187759619576.post-2574473297960487759"
+                },
+                "published": {
+                    "$t": "2016-04-27T00:08:00.000-04:00"
+                },
+                "updated": {
+                    "$t": "2016-09-09T14:30:32.908-04:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "analytics"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "google"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "HTML5"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "javascript"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "jQuery"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Video"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Web Development"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Track HTML5 Video Views with Google Analytics"
+                },
+                "content": {
+                    "type": "html",
+                    "$t": "\u003Cdiv class=\"bigInt\"\u003EIs there a simple solution to track viewers engagement, if you have published HTML 5 video on the web? Yes. You can use combination of Google Analytics and very few lines of coding to see detailed video engagement analytics. You can track total number of viewers for your video, number of viewers who has just watched minimum percentage of video you have mentioned, number of viewers who has completed watching the video and many such analytics could be found using \u003Ca href=\"http:\/\/www.9lessons.info\/2016\/03\/google-analytics-custom-dashboards-websites.html\" target=\"_blank\"\u003EGoogle Analytics\u003C\/a\u003E. Let’s see how far you are utilizing Google Analytics for such great analysis of your posted content on the web. Have a look at the demo..!\u003C\/div\u003E\u003Cbr\u003E\u003Cdiv class=\"cen\"\u003E\u003Cimg alt=\"Track HTML5 Video Views with Google Analytics \" class=\"sri650\" itemprop=\"image\" src=\"https:\/\/lh3.googleusercontent.com\/-acG0bAOx8Jk\/Vxu96YD6-hI\/AAAAAAAANzw\/ubQcIIXTKvU77_b_1-y9CJAmPJEKYlNSACCo\/s650\/html5video.png\"\u003E\u003C\/div\u003E\u003Cbr\u003E\u003Ca href=\"http:\/\/www.9lessons.info\/2016\/04\/track-html5-video-views-with-google.html#more\"\u003ERead more »\u003C\/a\u003E"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.9lessons.info\/feeds\/2574473297960487759\/comments\/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/04\/track-html5-video-views-with-google.html#comment-form",
+                        "title": "8 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/2574473297960487759"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/2574473297960487759"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/04\/track-html5-video-views-with-google.html",
+                        "title": "Track HTML5 Video Views with Google Analytics"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Srinivas Tamada"
+                        },
+                        "uri": {
+                            "$t": "https:\/\/plus.google.com\/104100007347037324968"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "32",
+                            "height": "32",
+                            "src": "\/\/lh4.googleusercontent.com\/-aKTHp74010k\/AAAAAAAAAAI\/AAAAAAAANpc\/M9QWGzJehJk\/s512-c\/photo.jpg"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https:\/\/lh3.googleusercontent.com\/-acG0bAOx8Jk\/Vxu96YD6-hI\/AAAAAAAANzw\/ubQcIIXTKvU77_b_1-y9CJAmPJEKYlNSACCo\/s72-c\/html5video.png",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "8"
+                }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-992226187759619576.post-5687664737692934434"
+                },
+                "published": {
+                    "$t": "2016-04-18T23:43:00.002-04:00"
+                },
+                "updated": {
+                    "$t": "2016-09-09T14:31:56.286-04:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "editor"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "HTML5"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "javascript"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "jQuery"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Web Development"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Integrate CKEditor in Html Page using JavaScript"
+                },
+                "content": {
+                    "type": "html",
+                    "$t": "\u003Cdiv class=\"bigInt\"\u003ECKEditor is a rich web text editor, which can be used inside your HTML web pages. This HTML text editor allows many of the powerful editing functions found on desktop editors like Microsoft Word to your web. This is featured with many advantages like preparing your mail content, creating your blogs and so on. This post also explains you how to further modify or use your text editor in many ways, which may include show \/ hide buttons, control the buttons, etc,.\u003C\/div\u003E\u003Cbr\u003E\u003Cdiv class=\"cen\"\u003E\u003Cimg alt=\"Integrate CKEditor in Html Page using JavaScript \" class=\"sri650\" itemprop=\"image\" src=\"https:\/\/lh3.googleusercontent.com\/-r1bplEocvXk\/VxWcsNt_tFI\/AAAAAAAANyY\/M48i7oT0oRcATJX8fNATKeWy3G06X-IpwCCo\/s650-Ic42\/ckeditor.png\"\u003E\u003C\/div\u003E\u003Cbr\u003E\u003Ca href=\"http:\/\/www.9lessons.info\/2016\/04\/integrate-ckeditor-in-html-page-using.html#more\"\u003ERead more »\u003C\/a\u003E"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.9lessons.info\/feeds\/5687664737692934434\/comments\/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/04\/integrate-ckeditor-in-html-page-using.html#comment-form",
+                        "title": "9 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/5687664737692934434"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/5687664737692934434"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/04\/integrate-ckeditor-in-html-page-using.html",
+                        "title": "Integrate CKEditor in Html Page using JavaScript"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Srinivas Tamada"
+                        },
+                        "uri": {
+                            "$t": "https:\/\/plus.google.com\/104100007347037324968"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "32",
+                            "height": "32",
+                            "src": "\/\/lh4.googleusercontent.com\/-aKTHp74010k\/AAAAAAAAAAI\/AAAAAAAANpc\/M9QWGzJehJk\/s512-c\/photo.jpg"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https:\/\/lh3.googleusercontent.com\/-r1bplEocvXk\/VxWcsNt_tFI\/AAAAAAAANyY\/M48i7oT0oRcATJX8fNATKeWy3G06X-IpwCCo\/s72-c\/ckeditor.png",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "9"
+                }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-992226187759619576.post-4262476305501889963"
+                },
+                "published": {
+                    "$t": "2016-04-03T23:36:00.000-04:00"
+                },
+                "updated": {
+                    "$t": "2016-09-09T14:35:42.135-04:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Facebook"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "javascript"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "jQuery"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Like"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Mysql"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "php"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "reaction"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Facebook Like Reactions using PHP, MySQL and Jquery. "
+                },
+                "content": {
+                    "type": "html",
+                    "$t": "\u003Cdiv class=\"bigInt\"\u003EJust a few days before, Facebook has launched Reactions, an extension of Like button. I succeeded in implementing the same in my \u003Ca href=\"http:\/\/www.thewallscript.com\/\" target=\"_blank\"\u003EWallScript 8\u003C\/a\u003E, Build Your Own Social Network. Here is a quick and easy way to implement the Reactions using PHP,Jquery and PDO MySQL. It’s a basic idea of implementing the Reactions. Hope you enjoy the new Reactions for Like button..! Take a quick look at the live demo.\u003C\/div\u003E\u003Cbr\u003E\u003Cdiv class=\"cen\"\u003E\u003Cimg alt=\"Facebook Like Reactions using PHP, MySQL and Jquery. \" class=\"sri650\" itemprop=\"image\" src=\"https:\/\/lh3.googleusercontent.com\/-01I08M-BFFI\/VwGyFNmFbdI\/AAAAAAAANwM\/-h1-pUqmM6IQ1dWgHmt76PdB4-KSaF80QCCo\/s650-Ic42\/reactions.png\"\u003E\u003C\/div\u003E\u003Cbr\u003E\u003Ca href=\"http:\/\/www.9lessons.info\/2016\/04\/facebook-like-reactions-using-php-mysql.html#more\"\u003ERead more »\u003C\/a\u003E"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.9lessons.info\/feeds\/4262476305501889963\/comments\/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/04\/facebook-like-reactions-using-php-mysql.html#comment-form",
+                        "title": "12 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/4262476305501889963"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http:\/\/www.blogger.com\/feeds\/992226187759619576\/posts\/default\/4262476305501889963"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http:\/\/www.9lessons.info\/2016\/04\/facebook-like-reactions-using-php-mysql.html",
+                        "title": "Facebook Like Reactions using PHP, MySQL and Jquery. "
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Srinivas Tamada"
+                        },
+                        "uri": {
+                            "$t": "https:\/\/plus.google.com\/104100007347037324968"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "32",
+                            "height": "32",
+                            "src": "\/\/lh4.googleusercontent.com\/-aKTHp74010k\/AAAAAAAAAAI\/AAAAAAAANpc\/M9QWGzJehJk\/s512-c\/photo.jpg"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https:\/\/lh3.googleusercontent.com\/-01I08M-BFFI\/VwGyFNmFbdI\/AAAAAAAANwM\/-h1-pUqmM6IQ1dWgHmt76PdB4-KSaF80QCCo\/s72-c\/reactions.png",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "12"
+                }
+            }
+        ]
+    }
+}
