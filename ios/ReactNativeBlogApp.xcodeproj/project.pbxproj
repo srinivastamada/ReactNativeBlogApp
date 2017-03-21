@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
 		00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302BA1ABCB90400DB3ED1 /* libRCTGeolocation.a */; };
@@ -72,6 +71,7 @@
 		F1DA4B28BD544EB9A085E0C9 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5BCA3E44459490996114D0A /* EvilIcons.ttf */; };
 		FA84E29680574A4999F6E3FD /* Times New Roman.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FAC400C6877B414995B20860 /* Times New Roman.ttf */; };
 		FF30F5D849BC4C20A8CA391F /* Rubik-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 965B9CE4531647ADAF730626 /* Rubik-Medium.ttf */; };
+		02B6136DB55E411388C9511E /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = D94C285E1DB84383B33789EB /* OFL.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXBuildRule section */
@@ -354,6 +354,7 @@
 		FAC400C6877B414995B20860 /* Times New Roman.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Times New Roman.ttf"; path = "../node_modules/native-base/Fonts/Times New Roman.ttf"; sourceTree = "<group>"; };
 		FF3BF566996F417B9F89E542 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/native-base/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		FF3E1545E5E04B6D9CE211E7 /* Arial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Arial.ttf; path = "../node_modules/native-base/Fonts/Arial.ttf"; sourceTree = "<group>"; };
+		D94C285E1DB84383B33789EB /* OFL.txt */ = {isa = PBXFileReference; name = "OFL.txt"; path = "../node_modules/native-base/Fonts/OFL.txt"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -570,6 +571,7 @@
 				B25E58A14916425A8ABD31E9 /* Skia.ttf */,
 				FAC400C6877B414995B20860 /* Times New Roman.ttf */,
 				F6382810A0FB4594B144C5DD /* Zocial.ttf */,
+				D94C285E1DB84383B33789EB /* OFL.txt */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -1052,6 +1054,7 @@
 				642DE13359FB40699116F9D6 /* Skia.ttf in Resources */,
 				FA84E29680574A4999F6E3FD /* Times New Roman.ttf in Resources */,
 				58A9B5FA458D403987BE6644 /* Zocial.ttf in Resources */,
+				02B6136DB55E411388C9511E /* OFL.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
