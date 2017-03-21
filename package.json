@@ -12,6 +12,8 @@
     "react-native": "0.42.0",
     "react-native-code-push": "^1.17.2-beta",
     "react-native-fit-image": "^1.4.7",
+    "react-native-htmlview": "^0.7.2",
+    "react-native-timeago": "^0.3.0",
     "xhr": "^2.4.0"
   },
   "devDependencies": {
