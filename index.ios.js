@@ -6,7 +6,9 @@
 
 import React, {Component} from 'react';
 import {AppRegistry, View, Text} from 'react-native';
-import {Container} from 'native-base';
+import {Container, StyleProvider} from 'native-base';
+import getTheme from './src/themes/components';
+import nineLessons from './src/themes/variables/nineLessons';
 
 import AppHeader from './src/components/appHeader';
 import AppFooter from './src/components/appFooter';
@@ -14,11 +16,13 @@ import AppBody from './src/components/appBody';
 export default class ReactNativeBlogApp extends Component {
   render() {
     return (
-      <Container >
-       <AppHeader/>
-       <AppBody/>
-       <AppFooter/>
+      <StyleProvider style={getTheme(nineLessons)}>
+      <Container>
+        <AppHeader/>
+        <AppBody/>
+        <AppFooter/>
       </Container>
+      </StyleProvider>
     );
   }
 }

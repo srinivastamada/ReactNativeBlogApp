@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import AppBodyData from './appBodyData';
+import About from './pages/about';
 import {Content} from 'native-base';
 export default class AppBody extends Component {
   constructor() {
