@@ -4,8 +4,11 @@ An iOS and Android application for Google Blogger hosted websites. This package 
 [![React Native Blog Application](https://img.youtube.com/vi/NtC01lIyDwg/0.jpg)](https://www.youtube.com/watch?v=NtC01lIyDwg)
 
 <table><tr><td width="50%">
+<b>iOS</b> <br/>
 <img src="https://i.imgur.com/2sr5gFX.png" width="283" alt="React Native Blog Application">
-</td><td><img src="https://i.imgur.com/jflSfVm.png" width="300" alt="React Native Blog Application"></td></tr></table>
+</td><td>
+<b>Android</b><br/>
+<img src="https://i.imgur.com/jflSfVm.png" width="300" alt="React Native Blog Application"></td></tr></table>
 
 
 Install Node JS Software
