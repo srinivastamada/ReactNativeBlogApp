@@ -27,12 +27,10 @@ $ npm install
 
 $ react-native run-ios
 
-# ReactNativeBlogApp Build IOS
+# ReactNativeBlogApp Build Android
 
 $ react-native run-android
 
 ```
 
-Open your browser http://localhost:8100/
-
-Tutorial: <a href="http://www.9lessons.info/2017/01/ionic-2-mobile-app-using-angular-2-and.html">Coming soon</a>
+Tutorial: <a href="http://www.9lessons.info/2017/03/getting-started-with-react-native.html">Getting Started with React Native Template Design - Tutorial Part 1</a>
