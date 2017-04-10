@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Text} from 'react-native';
+import {Text, WebView} from 'react-native';
 import {Container, Content, Card, CardItem, Icon, Right} from 'native-base';
 import {AppFooter} from '../appFooter'
 
@@ -14,15 +14,10 @@ export default class News extends Component {
     return (
    
         <Content style={ {  marginTop: 75 } }>
-          <Card>
-            <CardItem>
-              <Icon active name="logo-googleplus"/>
-              <Text>Google Plus</Text>
-              <Right>
-                <Icon name="arrow-forward"/>
-              </Right>
-            </CardItem>
-          </Card>
+          <WebView
+        source={{uri: 'https://www.google.com'}}
+        style={{marginTop: 20}}
+      />
         </Content>
 
     );

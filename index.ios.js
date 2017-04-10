@@ -24,14 +24,16 @@ export default class ReactNativeBlogApp extends Component {
 
       <StyleProvider style={getTheme(nineLessons)}>
         <Container >
-     
+   
           <Router>
             <Scene key="root">
-              <Scene key="feed" component={Feed} title="Feed"/>
-              <Scene key="about" component={About} title="About"/>
-              <Scene key="news" component={News} title="News"/>
+              <Scene key="feed" component={Feed} title="Feed" hideNavBar={true}/>
+              <Scene key="about" component={About} title="About" hideNavBar={false}/>
+              <Scene key="news" component={News} title="News" hideNavBar={false}/>
             </Scene>
           </Router>
+
+  
 
   
           <AppFooter/>

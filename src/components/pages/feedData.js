@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {Image, WebView} from 'react-native';
 import {
+    Container,
     Content,
     Card,
     CardItem,
@@ -12,6 +13,7 @@ import {
     Thumbnail,
     View
 } from 'native-base';
+import AppHeader from '../appHeader';
 import FitImage from 'react-native-fit-image';
 import TimeAgo from 'react-native-timeago';
 import HTMLView from 'react-native-htmlview';
@@ -75,9 +77,10 @@ export default class FeedData extends Component {
             });
 
         return (
-            <Content style={{
-                marginTop: 75
-            }}>{articles}</Content>
+            <Container>
+           <AppHeader/>
+            <Content>{articles}</Content>
+             </Container>
         );
     }
 }

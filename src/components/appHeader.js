@@ -18,13 +18,13 @@ export default class AppHeader extends Component {
           </Button>
         </Left>
         <Body>
-          { /*<Image
+          <Image
             source={require('../img/9lessonsLogo.png')}
             style={{
             width: 160,
             height: 30
-          }}/> */ }
-          <Text>About</Text>
+          }}/> 
+          
         </Body>
         <Right/>
       </Header>
