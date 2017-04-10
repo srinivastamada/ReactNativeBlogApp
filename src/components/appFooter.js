@@ -1,24 +1,30 @@
 import React, {Component} from 'react';
-import { Image, StyleSheet} from 'react-native';
-import {
-  Footer, FooterTab, Icon, Button, Text
-} from 'native-base';
+import {Image, StyleSheet} from 'react-native';
+import {Footer, FooterTab, Icon, Button, Text} from 'native-base';
+
+import {Actions} from 'react-native-router-flux';
 
 export default class AppFooter extends Component {
-  
+  constructor() {
+    super();
+    this.state = {
+      active: false
+    };
+  }
+
   render() {
     return (
-      <Footer >
+      <Footer>
         <FooterTab>
-          <Button active>
+          <Button active={this.state.active} onPress={Actions.feed}>
             <Icon name="ios-egg"/>
             <Text>Feed</Text>
           </Button>
-          <Button>
-             <Icon active name="paper"/>
+          <Button active={this.state.active} onPress={Actions.news}>
+            <Icon name="paper"/>
             <Text>News</Text>
           </Button>
-          <Button>
+          <Button active={this.state.active} onPress={Actions.about}>
             <Icon name="contact"/>
             <Text>About</Text>
           </Button>
@@ -31,7 +37,7 @@ export default class AppFooter extends Component {
 const styles = StyleSheet.create({
   newFooterBg: {
     color: 'red',
-    backgroundColor: '#333333',
+    backgroundColor: '#333333'
   }
 });
 

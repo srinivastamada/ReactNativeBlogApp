@@ -15,8 +15,8 @@ import {
 import FitImage from 'react-native-fit-image';
 import TimeAgo from 'react-native-timeago';
 import HTMLView from 'react-native-htmlview';
-import {ContentSnippet, GetImage} from '../helpers/helpers';
-export default class AppBodyData extends Component {
+import {ContentSnippet, GetImage} from '../../helpers/helpers';
+export default class FeedData extends Component {
 
     render() {
         let articles = this
@@ -29,7 +29,7 @@ export default class AppBodyData extends Component {
                     <Card key={articleData.published.$t}>
                         <CardItem>
                             <Left>
-                                <Thumbnail source={require('../img/SrinivasTamada.png')}/>
+                                <Thumbnail source={require('../../img/SrinivasTamada.png')}/>
                                 <Body>
                                     <Text>
                                         {articleData.title.$t}</Text>
@@ -75,8 +75,10 @@ export default class AppBodyData extends Component {
             });
 
         return (
-            <Content>{articles}</Content>
+            <Content style={{
+                marginTop: 75
+            }}>{articles}</Content>
         );
     }
 }
-module.export = AppBodyData;
+module.export = FeedData;
