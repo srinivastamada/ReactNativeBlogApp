@@ -8,23 +8,52 @@ export default class AppFooter extends Component {
   constructor() {
     super();
     this.state = {
-      active: false
+      activeTabName: 'feed'
     };
+  }
+
+  tabAction(tab) {
+    this.setState({activeTabName: tab});
+    if (tab === 'feed') {
+      Actions.feed();
+    } else if (tab === 'news') {
+      Actions.news();
+    } else {
+      Actions.about();
+    }
   }
 
   render() {
     return (
       <Footer>
         <FooterTab>
-          <Button active={this.state.active} onPress={Actions.feed}>
+          <Button
+            active={(this.state.activeTabName === "feed")
+            ? true
+            : ""}
+            onPress={() => {
+            this.tabAction('feed')
+          }}>
             <Icon name="ios-egg"/>
-            <Text>Feed</Text>
+            <Text>{this.state.activeTabName}</Text>
           </Button>
-          <Button active={this.state.active} onPress={Actions.news}>
+          <Button
+            active={(this.state.activeTabName === "news")
+            ? true
+            : ""}
+            onPress={() => {
+            this.tabAction('news')
+          }}>
             <Icon name="paper"/>
             <Text>News</Text>
           </Button>
-          <Button active={this.state.active} onPress={Actions.about}>
+          <Button
+            active={(this.state.activeTabName === "about")
+            ? true
+            : ""}
+            onPress={() => {
+            this.tabAction('about')
+          }}>
             <Icon name="contact"/>
             <Text>About</Text>
           </Button>

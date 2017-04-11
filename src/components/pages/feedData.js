@@ -78,9 +78,9 @@ export default class FeedData extends Component {
 
         return (
             <Container>
-           <AppHeader/>
-            <Content>{articles}</Content>
-             </Container>
+                <AppHeader/>
+                <Content>{articles}</Content>
+            </Container>
         );
     }
 }
