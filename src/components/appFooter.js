@@ -35,7 +35,7 @@ export default class AppFooter extends Component {
             this.tabAction('feed')
           }}>
             <Icon name="ios-egg"/>
-            <Text>{this.state.activeTabName}</Text>
+            <Text>Feed</Text>
           </Button>
           <Button
             active={(this.state.activeTabName === "news")
